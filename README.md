@@ -1,7 +1,7 @@
-<h3>- 👋 Hi, I’m @Annarhysa
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and it's applications
-- 💞️ I’m looking to collaborate on projects related to Data Science and IoT
+<h3>- 👋 Hi, I’m @Annarhysa<br>
+- 👀 I’m interested in Data Science<br>
+- 🌱 I’m currently learning Machine Learning and it's applications<br>
+- 💞️ I’m looking to collaborate on projects related to Data Science and IoT<br>
 - 📫 annarhysa13@gmail.com </h3>
 
 <!---
