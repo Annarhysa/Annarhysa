@@ -19,6 +19,7 @@
 </div>
 
 ## 👩‍💻 Tech Stack
+<h3>Languages and tools I work with <br><br>
 <code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" alt="cpp" src="https://www.filehippox.com/wp-content/uploads/2020/04/1-3-300x300.png"></code>
 <code><img height="47" alt="c" src="https://fekir.info/img/c-logo.png"></code>
@@ -32,7 +33,16 @@
 <code><img height="48" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="48" alt="alteryx" src="https://mip.com.au/wp-content/uploads/2018/03/Round-Circle-Alteryx.png"></code>
 <br>
-  
+<br>
+
+<h3>Libraries (Python) I am interested/expertise in<br><br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)<br>
+
 ## 📈 Profile Stats
 [![Annarhysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Annarhysa/github-readme-stats)
 
