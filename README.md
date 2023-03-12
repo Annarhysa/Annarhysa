@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="./images/female-programmer-developed-website-6369146-5304702.gif" width="30%" alt="GIF" align="right"> 
+<img src="./images/Hand coding-rafiki.png" width="30%" alt="GIF" align="right"> 
 <br />
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
