@@ -23,12 +23,12 @@
 <code><img height="60" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png"></code> 
 <code><img height="60" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="60" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="60" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png"></code>
-<code><img height="60" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> 
-<code><img height="60" alt="canva" src="./images/OIP__1_-removebg-preview.png"></code> 
-<code><img height="60" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></code> 
-<code><img height="60" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> 
-<code><img height="60" alt="alteryx" src="https://th.bing.com/th/id/R.ae87fc7428be8c8b7905f206ba52533f?rik=SvB%2fqWhzKJj0Ww&riu=http%3a%2f%2fwww.ortechnologies.net%2fwp-content%2fuploads%2f2018%2f01%2falteryx-crest2.png&ehk=7Nw3zJho0jbnb7pkZk%2fYeXxQ5Hrc87VVYz4%2bNJRyBwg%3d&risl=&pid=ImgRaw&r=0"></code> 
+<code><img height="55" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png"></code>
+<code><img height="55" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> 
+<code><img height="55" alt="canva" src="./images/OIP__1_-removebg-preview.png"></code> 
+<code><img height="55" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></code> 
+<code><img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> 
+<code><img height="55" alt="alteryx" src="https://th.bing.com/th/id/R.ae87fc7428be8c8b7905f206ba52533f?rik=SvB%2fqWhzKJj0Ww&riu=http%3a%2f%2fwww.ortechnologies.net%2fwp-content%2fuploads%2f2018%2f01%2falteryx-crest2.png&ehk=7Nw3zJho0jbnb7pkZk%2fYeXxQ5Hrc87VVYz4%2bNJRyBwg%3d&risl=&pid=ImgRaw&r=0"></code> 
 
 <h4>
 👀 I’m interested in Data Science<br>
