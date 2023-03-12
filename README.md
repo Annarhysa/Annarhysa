@@ -1,3 +1,7 @@
+<div align = "center">
+<h1>
+  Hey, I’m @Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1></div>
 <div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges", align="center">
@@ -12,10 +16,12 @@
   </a>
 </div>
 
-<div align = "center">
-<h1>
-  Hey, I’m @Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1></div>
+## My Tech Stack
+<code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" alt="numpy" src="https://img.favpng.com/10/23/21/c-programming-language-icon-png-favpng-878WK0RF2zxn7b6TimT7zquZN.jpg"></code>
+<code><img height="50" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
 
 <h4>
 👀 I’m interested in Data Science<br>
