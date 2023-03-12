@@ -48,10 +48,14 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)<br>
 
 ## 📈 Profile Stats
-[![Annarhysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Annarhysa/github-readme-stats)
+<div>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa)](https://github.com/Annarhysa/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
+  </div>
+  
+  
 ## 📃 About
 👀 I’m interested in Data Science<br>
 🌱 I’m currently learning Machine Learning and it's applications<br>
