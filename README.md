@@ -8,7 +8,7 @@
 <img src="./images/female-programmer-developed-website-6369146-5304702.gif" width="30%" alt="GIF" align="right"> 
 <br />
 <div align = "left">
-  👀 I am a Artificial Intelligence and Data Science enthusiast<br>
+  👀 I am an Artificial Intelligence and Data Science enthusiast<br>
   🌱 I’m currently learning Machine Learning and it's applications in different fields<br>
   💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning <br> 
   📫 annarhysa13@gmail.com <br> 
