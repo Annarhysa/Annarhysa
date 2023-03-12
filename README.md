@@ -20,19 +20,22 @@
 
 ## 👩‍💻 Tech Stack
 <h3>Languages and tools I work with <br><br>
-<code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" alt="cpp" src="https://www.filehippox.com/wp-content/uploads/2020/04/1-3-300x300.png"></code>
-<code><img height="47" alt="c" src="https://fekir.info/img/c-logo.png"></code>
-<code><img height="50" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png"></code> 
-<code><img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="45" alt="js" src="./images/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files-removebg-preview.png"></code>
-<code><img height="48" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png"></code>
-<code><img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> 
-<code><img height="60" alt="Java" src="./images/pnghut_java-programmer-computer-programming-logo-language.png"></code> 
-<code><img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></code> 
-<code><img height="48" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="48" alt="alteryx" src="https://mip.com.au/wp-content/uploads/2018/03/Round-Circle-Alteryx.png"></code>
+<div>
+<img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="50" alt="cpp" src="https://www.filehippox.com/wp-content/uploads/2020/04/1-3-300x300.png">
+<img height="65" alt="git" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png">
+<img height="50" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png">
+<img height="45" alt="c" src="https://fekir.info/img/c-logo.png">
+<img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
+<img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
+<img height="45" alt="js" src="./images/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files-removebg-preview.png">
+<img height="48" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png">
+<img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
+<img height="60" alt="Java" src="./images/pnghut_java-programmer-computer-programming-logo-language.png">
+<img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"> 
+<img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">
+<img height="45" alt="alteryx" src="https://mip.com.au/wp-content/uploads/2018/03/Round-Circle-Alteryx.png">
+  </div>
 <br>
 <br>
 
