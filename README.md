@@ -20,8 +20,15 @@
 <code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" alt="numpy" src="https://img.favpng.com/10/23/21/c-programming-language-icon-png-favpng-878WK0RF2zxn7b6TimT7zquZN.jpg"></code>
+<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
 <code><img height="50" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
+<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> 
+<code><img height="50" alt="nodejs" src="https://th.bing.com/th/id/OIP.rj0XaPESsNAPT49-YqUo0AHaHa?pid=ImgDet&rs=1"></code> 
+<code><img height="50" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></code> 
+<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> 
+<code><img height="50" alt="nodejs" src="https://th.bing.com/th/id/R.ae87fc7428be8c8b7905f206ba52533f?rik=SvB%2fqWhzKJj0Ww&riu=http%3a%2f%2fwww.ortechnologies.net%2fwp-content%2fuploads%2f2018%2f01%2falteryx-crest2.png&ehk=7Nw3zJho0jbnb7pkZk%2fYeXxQ5Hrc87VVYz4%2bNJRyBwg%3d&risl=&pid=ImgRaw&r=0"></code> 
 
 <h4>
 👀 I’m interested in Data Science<br>
