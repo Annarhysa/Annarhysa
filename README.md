@@ -11,7 +11,7 @@
 <div align = "left">
   👀 I am a Artificial Intelligence and Data Science enthusiast<br>
   🌱 I’m currently learning Machine Learning and it's applications in different fields<br>
-  💞️ I’m looking to collaborate on projects related to Data Science, Web Develpment, Machine Learning and IoT <br> 
+  💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning <br> 
   📫 <a href = "annarhysa13@gmail.com">annarhysa13@gmail.com</a> <br> 
   💻 <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
 
