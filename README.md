@@ -2,10 +2,15 @@
 <h1>
   Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+<div align = "center">
+  
+| 👀 I’m interested in Data Science<br>🌱 I’m currently learning Machine Learning and it's applications<br>💞️ I’m looking to collaborate on projects related to Data Science and IoT<br> 📫 annarhysa13@gmail.com | <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Image" style="width:60%"> |
+| :--- | --- |
+  
+</div>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,6 +22,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
+
 
 ## 👩‍💻 Tech Stack
 <h3>Languages and tools I work with <br><br>
@@ -47,18 +56,17 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)<br>
 
+  
+  
+  
+  
 ## 📈 Profile Stats
 <div align = "center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
   
   </div>
-  
-## 📃 About
-👀 I’m interested in Data Science<br>
-🌱 I’m currently learning Machine Learning and it's applications<br>
-💞️ I’m looking to collaborate on projects related to Data Science and IoT<br>
-📫 annarhysa13@gmail.com
+
 
 <!---
 Annarhysa/Annarhysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
