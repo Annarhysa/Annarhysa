@@ -27,7 +27,7 @@
 <code><img height="50" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="45" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png"></code>
 <code><img height="45" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> 
-<code><img height="45" alt="Java" src="https://e7.pngegg.com/pngimages/315/519/png-clipart-coffee-logo-java-logo-icons-logos-emojis-tech-companies.png"></code> 
+<code><img height="60" alt="Java" src="./images/pnghut_java-programmer-computer-programming-logo-language.png"></code> 
 <code><img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></code> 
 <code><img height="45" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> <br>
   
