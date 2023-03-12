@@ -9,7 +9,7 @@
 <br />
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
-  🌱 I’m currently learning Machine Learning and it's applications in different fields<br>
+  🌱 I’m currently practicing Machine Learning and it's applications in different fields<br>
   💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning <br> 
   📫 annarhysa13@gmail.com <br> 
   💻 <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
