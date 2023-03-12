@@ -7,7 +7,7 @@
 
 <div align = "center">
   
-| 👀 I’m interested in Data Science<br>🌱 I’m currently learning Machine Learning and it's applications<br>💞️ I’m looking to collaborate on projects related to Data Science and IoT<br> 📫 annarhysa13@gmail.com | <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Image" style="width:60%"> |
+| 👀 I’m interested in Data Science<br>🌱 I’m currently learning Machine Learning and it's applications<br>💞️ I’m looking to collaborate on projects related to Data Science and IoT<br> 📫 annarhysa13@gmail.com<br> 💻 [Protfolio](https://annarhysa-albert.my.canva.site/) | <img src="./images/female-programmer-developed-website-6369146-5304702.gif" alt="Image" style="width:50%"> |
 | :--- | --- |
   
 </div>
@@ -20,6 +20,15 @@
   </a>
   <a href="https://twitter.com/annarhysa003">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://in.pinterest.com/annarhysa/">
+    <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/aa17011?hr_r=1">
+    <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/anna_albert21">
+    <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
   </a>
 </div>
 
