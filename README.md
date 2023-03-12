@@ -2,7 +2,7 @@
 <h1>
   Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>
-<div id="header" align="center"> <img src="./images/Hand coding-rafiki.png" width="400">
+<div id="header" align="center"> <img src="./images/Hand coding-rafiki.png width="400">
 </div>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
