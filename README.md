@@ -4,6 +4,7 @@
 </h1></div>
 </div>
 
+
  
 <img src="./images/female-programmer-developed-website-6369146-5304702.gif" width="30%" alt="GIF" align="right"> 
 <br />
@@ -11,13 +12,13 @@
   👀 I am a Artificial Intelligence and Data Science enthusiast<br>
   🌱 I’m currently learning Machine Learning and it's applications in different fields<br>
   💞️ I’m looking to collaborate on projects related to Data Science, Web Develpment, Machine Learning and IoT <br> 
-  📫 annarhysa13@gmail.com<br> 
-  💻 [Protfolio](https://annarhysa-albert.my.canva.site/)
+  📫 <a href = "annarhysa13@gmail.com">annarhysa13@gmail.com</a> <br> 
+  💻 <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
 
   </div>
 <br>
       
-<div id="badges", align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
