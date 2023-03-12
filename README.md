@@ -4,7 +4,6 @@
 </h1></div>
 </div>
 
-annarhysa13@gmail.com
 
 <img src="./images/female-programmer-developed-website-6369146-5304702.gif" width="30%" alt="GIF" align="right"> 
 <br />
@@ -12,13 +11,13 @@ annarhysa13@gmail.com
   👀 I am a Artificial Intelligence and Data Science enthusiast<br>
   🌱 I’m currently learning Machine Learning and it's applications in different fields<br>
   💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning <br> 
-  📫 <a href = "annarhysa13@gmail.com">annarhysa13@gmail.com</a> <br> 
+  📫 annarhysa13@gmail.com <br> 
   💻 <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
 
   </div>
 <br>
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,12 +30,12 @@ annarhysa13@gmail.com
   <a href="https://in.pinterest.com/annarhysa/">
     <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/aa17011?hr_r=1">
+ <!--- <a href="https://www.hackerrank.com/aa17011?hr_r=1">
     <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
   <a href="https://www.codechef.com/users/anna_albert21">
     <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-  </a>
+  </a>) --->
 </div>
 
 
