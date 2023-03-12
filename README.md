@@ -2,8 +2,10 @@
 <h1>
   Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>
-<div id="header" align="center"> <img src="./images/Hand coding-rafiki.png width="400">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,14 +29,16 @@
 <code><img height="55" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> 
 <code><img height="55" alt="canva" src="./images/OIP__1_-removebg-preview.png"></code> 
 <code><img height="55" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></code> 
-<code><img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> 
-
-
-<h4>
+<code><img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> <br>
+  
+## Profile Stats
+[![Annarhysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Annarhysa/github-readme-stats)
+ 
+## About
 👀 I’m interested in Data Science<br>
 🌱 I’m currently learning Machine Learning and it's applications<br>
 💞️ I’m looking to collaborate on projects related to Data Science and IoT<br>
-📫 annarhysa13@gmail.com </h4>
+📫 annarhysa13@gmail.com
 
 <!---
 Annarhysa/Annarhysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
