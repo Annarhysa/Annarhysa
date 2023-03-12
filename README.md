@@ -84,6 +84,14 @@
   
   </div>
 
+## Top Repositories
+<div align = "center">
+<a href="https://github.com/Annarhysa/Weather-Predictor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Weather-Predictor&theme=transparent" />
+</a>
+<a href="https://github.com/Annarhysa/Cryptocurrency-Trading-Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Cryptocurrency-Trading-Algorithm&theme=transparent" />
+</a></div>
 
 <!---
 Annarhysa/Annarhysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
