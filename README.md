@@ -18,8 +18,8 @@
   </a>
 </div>
 
-## My Tech Stack
-<code><img height="60" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+## 👩‍💻 Tech Stack
+<code><img height="50 alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" alt="cpp" src="https://www.filehippox.com/wp-content/uploads/2020/04/1-3-300x300.png"></code>
 <code><img height="57" alt="c" src="https://fekir.info/img/c-logo.png"></code>
 <code><img height="60" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png"></code> 
@@ -31,11 +31,12 @@
 <code><img height="55" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></code> 
 <code><img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code> <br>
   
-## Profile Stats
+## 📈 Profile Stats
 [![Annarhysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Annarhysa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa)](https://github.com/Annarhysa/github-readme-stats)
-## About
+
+## 📃 About
 👀 I’m interested in Data Science<br>
 🌱 I’m currently learning Machine Learning and it's applications<br>
 💞️ I’m looking to collaborate on projects related to Data Science and IoT<br>
