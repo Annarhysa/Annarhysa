@@ -17,7 +17,7 @@
 
   </div>
 <br>
-      
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,7 +40,7 @@
 </div>
 
 
-
+<br>
 
 
 ## 👩‍💻 Tech Stack
