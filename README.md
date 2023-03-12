@@ -33,7 +33,8 @@
   
 ## Profile Stats
 [![Annarhysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Annarhysa/github-readme-stats)
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa)](https://github.com/Annarhysa/github-readme-stats)
 ## About
 👀 I’m interested in Data Science<br>
 🌱 I’m currently learning Machine Learning and it's applications<br>
