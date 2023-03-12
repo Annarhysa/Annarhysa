@@ -4,8 +4,8 @@
 </h1></div>
 </div>
 
+annarhysa13@gmail.com
 
- 
 <img src="./images/female-programmer-developed-website-6369146-5304702.gif" width="30%" alt="GIF" align="right"> 
 <br />
 <div align = "left">
