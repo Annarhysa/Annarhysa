@@ -23,7 +23,7 @@
 <div>
 <img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="50" alt="cpp" src="https://www.filehippox.com/wp-content/uploads/2020/04/1-3-300x300.png">
-<img height="65" alt="git" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png">
+<img width="70" alt="git" src="./images/git-removebg-preview.png">
 <img height="50" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png">
 <img height="45" alt="c" src="https://fekir.info/img/c-logo.png">
 <img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
