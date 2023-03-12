@@ -48,12 +48,10 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)<br>
 
 ## 📈 Profile Stats
-<div>
-  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
-  </div>
   
   
 ## 📃 About
