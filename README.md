@@ -9,7 +9,25 @@
   
 | 👀 I’m interested in Data Science<br>🌱 I’m currently learning Machine Learning and it's applications<br>💞️ I’m looking to collaborate on projects related to Data Science and IoT<br> 📫 annarhysa13@gmail.com<br> 💻 [Protfolio](https://annarhysa-albert.my.canva.site/) | <img src="./images/female-programmer-developed-website-6369146-5304702.gif" alt="Image" style="width:50%"> |
 | :--- | --- |
+ 
   
+<img src="display.gif" width="400px" alt="GIF" align="right"> 
+<br />
+
+  - 🔭 I’m a full stack Web Developer
+  - 🌱 I’m currently learning AI/ML & improving my Problem Solving skills
+  - 👯 I’m looking to collaborate for projects and hackathons
+  - ⚡ Fun fact: I am still a newbie😄.
+  - 😍 Interested to build tech that solve real world problem
+  - 📫 You can reach me through 👇  
+    <br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sanskar-gupta-0354b21b7/)  &nbsp; 
+    [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sanskargupta_09/?hl=en)  &nbsp; 
+    <a href="mailto:sanskargupta0901@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
+<br>
+<br>
+<hr />
+<br>
+      
 </div>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
