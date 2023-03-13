@@ -1,8 +1,4 @@
-<div align = "center">
-<h1>
-  Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1></div>
-</div>
+# Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
 <img src="./images/Hand coding-rafiki.png" width="30%" alt="GIF" align="right"> 
