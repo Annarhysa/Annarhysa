@@ -80,7 +80,7 @@
   
   </div>
 
-## Top Repositories
+## 🔝 Top Repositories
 <div align = "center">
 <a href="https://github.com/Annarhysa/Weather-Predictor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Weather-Predictor&theme=transparent" />
