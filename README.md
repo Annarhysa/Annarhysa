@@ -1,7 +1,7 @@
 # Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
 
-<img src="./images/Hand coding-rafiki.png" width="30%" alt="GIF" align="right"> 
+<img src="./images/Hand coding-rafiki.png" width="40%" alt="GIF" align="right"> 
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
   🌱 I’m currently practicing Machine Learning and it's applications in different fields<br>
