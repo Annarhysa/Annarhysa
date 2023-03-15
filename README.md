@@ -1,5 +1,5 @@
 # Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<img src="./images/Hand coding-rafiki.png" width="40%" alt="vector" align="right"> 
+<img src="./images/Hand coding-rafiki.png" width="35%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Wanna+be+Analyst+📊;ML+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
 
