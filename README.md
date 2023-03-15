@@ -1,13 +1,12 @@
 # Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
 
-<img src="./images/Hand coding-rafiki.png" width="40%" alt="GIF" align="right"> 
+<img src="./images/Hand coding-rafiki.png" width="40%" alt="vector" align="right"> 
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
-  🌱 I’m currently practicing Machine Learning and it's applications in different fields<br>
-  💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning <br> 
-  📖 I'm looking for reseacrh internships in Machine Learning<br>
-  🫂 I'm into Open Source Contribution and want to learn more about Git and GitHub<br>
+  🤖 I’m currently practicing Machine Learning and it's applications in various fields<br>
+  🫂 I’m want to collaborate on projects related to Data Science and Machine Learning <br> 
+  📖 I'm looking for research internships in Machine Learning<br>
   📫 annarhysa13@gmail.com <br> 
   💻 <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
 
