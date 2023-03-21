@@ -14,23 +14,27 @@
 
   </div>
 <br>
-
+<br>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://linktr.ee/anna_albert">
-   <img src="https://img.shields.io/badge/Linktree-darkgreen?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
+   <img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
+  </a>
+  <a href="https://discord.com/channels/@me/1084779154106494987">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/annarhysa003">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://in.pinterest.com/annarhysa/">
     <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
   <a href="https://www.tumblr.com/blog/anna-albert003">
-    <img src="https://img.shields.io/badge/Tumblr-black?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr Badge"/>
+    <img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr Badge"/>
   </a>
+  
   
  <!--- <a href="https://www.hackerrank.com/aa17011?hr_r=1">
     <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
