@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<div id="badges" align = "center">
+<div id="badges">
 
   <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
