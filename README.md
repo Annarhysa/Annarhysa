@@ -82,7 +82,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-blue.svg?style=for-the-badge&logo=snowflake&logoColor=white)<br>
+![Snowflake](https://img.shields.io/badge/snowflake-blue.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-purple.svg?style=for-the-badge&logo=PyPI&logoColor=white)<br>
 
  <br>
   
