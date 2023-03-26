@@ -1,4 +1,4 @@
-# Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hey, I’m Annarhysa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 <img src="./images/Hand coding-rafiki.png" width="35%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Wanna+be+Analyst+📊;ML+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
@@ -6,9 +6,9 @@
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
-  🤖 I’m currently practicing Machine Learning and it's applications in various fields<br>
-  🫂 I’m want to collaborate on projects related to Data Science and Machine Learning <br> 
-  📖 I'm looking for research internships in Machine Learning<br>
+  🤖 Currently practicing Machine Learning and it's applications<br>
+  🫂 Looking for collaborator on DS and ML projects<br> 
+  📖 I'm finding opportunities for research internships in Machine Learning<br>
   📫 annarhysa13@gmail.com <br> 
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
 
