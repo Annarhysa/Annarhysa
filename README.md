@@ -69,7 +69,7 @@
 <img height="60" alt="Java" src="./images/pnghut_java-programmer-computer-programming-logo-language.png">
 <img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"> 
 <img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">
-<img height="45" alt="alteryx" src="https://mip.com.au/wp-content/uploads/2018/03/Round-Circle-Alteryx.png">
+<img height="45" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
   </div>
   
 <br>
