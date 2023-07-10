@@ -54,7 +54,7 @@
 
 
 ## 👩‍💻 Tech Stack
-<h3>Languages and Tools I work with <br><br>
+<h3>Languages and tools I work with <br><br>
 <div>
 <img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="55" alt="cpp" src="images/534-5342172_c-language-course-c-logo-removebg-preview (1).png">
@@ -74,7 +74,7 @@
   
 <br>
 
-<h3>Libraries (Python) I expertise in<br><br>
+<h3>Python libraries I expertise in<br><br>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-royalblue.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
