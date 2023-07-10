@@ -74,7 +74,7 @@
   
 <br>
 
-<h3>Libraries (Python) I am interested/expertize in<br><br>
+<h3>Libraries (Python) I expertise in<br><br>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-royalblue.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
