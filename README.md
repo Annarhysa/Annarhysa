@@ -48,8 +48,6 @@
 </div>
 
 <br>
-<br>
-
 
 ## 👩‍💻 Tech Stack
 <h3>Languages and tools I work with <br><br>
@@ -69,7 +67,7 @@
 <img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">
 <img height="45" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
   </div>
-  
+
 <br>
 
 <h3>Python libraries I expertise in<br><br>
@@ -88,14 +86,11 @@
 ![SymPy](https://img.shields.io/badge/SymPy-teal.svg?style=for-the-badge&logo=Sympy&logoColor=white)<br>
 
  <br>
-  
-  
-  
+
 ## 📈 Profile Stats
 <div align = "center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
-  
   </div>
 
 ## 🔝 Top Repositories
