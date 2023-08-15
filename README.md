@@ -6,8 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
-  🤖 Currently practicing Machine Learning and it's applications<br>
-  🫂 Looking for collaborator on DS and ML projects<br> 
+  🤖 Currently practising Machine Learning and its applications<br>
+  🫂 Looking for a collaborator on DS and ML projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
   📫 annarhysa13@gmail.com <br> 
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
@@ -90,7 +90,10 @@
 ## 📈 Profile Stats
 <div align = "center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
+
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true)](https://github.com/Annarhysa)
+</p>
   </div>
 
 ## 🔝 Top Repositories
