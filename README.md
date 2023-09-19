@@ -97,7 +97,6 @@
   </div>
 
 ## 🔝 Top Repositories
-
 <div align = "center">
 <a href="https://github.com/Annarhysa/Book-Recommendation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Book-Recommendation&theme=transparent" />
@@ -107,6 +106,9 @@
 </a>
 <a href="https://github.com/Annarhysa/CareerWise">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
+</a>
+<a href="https://github.com/Annarhysa/License-plate-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=License-plate-detection&theme=transparent" />
 </a>
 </div>
 
