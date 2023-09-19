@@ -104,11 +104,11 @@
 <a href="https://github.com/Annarhysa/Stock-Market-Advisor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Stock-Market-Advisor&theme=transparent" />
 </a>
+<a href="https://github.com/Annarhysa/Code-Translator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Code-Translator&theme=transparent" />
+</a>
 <a href="https://github.com/Annarhysa/CareerWise">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/License-plate-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=License-plate-detection&theme=transparent" />
 </a>
 </div>
 
