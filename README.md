@@ -1,4 +1,4 @@
-<h1 color = "white"> Hey, I’m Annarhysa </h1>
+<h1> Hey, I’m Annarhysa </h1>
 
 <img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
 
