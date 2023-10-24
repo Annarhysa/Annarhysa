@@ -1,4 +1,5 @@
-# Hey, I’m Annarhysa
+<h1> Hey, I’m Annarhysa </h1>
+
 <img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
