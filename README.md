@@ -92,10 +92,9 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
-  [![Annarhysa's GitHub | Dependencies](https://stats.quine.sh/Annarhysa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa) </p>    
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)[![Annarhysa's GitHub | Dependencies](https://stats.quine.sh/Annarhysa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa) </p>    
 
-[![Annarhysa's GitHub | Topics Over Time](https://stats.quine.sh/Annarhysa/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa)  [![Annarhysa's GitHub | Languages Over Time](https://stats.quine.sh/Annarhysa/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa)
+[![Annarhysa's GitHub | Topics Over Time](https://stats.quine.sh/Annarhysa/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa)[![Annarhysa's GitHub | Languages Over Time](https://stats.quine.sh/Annarhysa/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa)
 
   </div>
 
