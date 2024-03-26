@@ -102,8 +102,8 @@
 
 ## 🔝 Top Repositories
 <div align = "center">
-<a href="https://github.com/Annarhysa/Book-Recommendation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Book-Recommendation&theme=transparent" />
+<a href="https://github.com/Annarhysa/BudgetBud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=BudgetBud&theme=transparent" />
 </a>
 <a href="https://github.com/Annarhysa/Stock-Market-Advisor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Stock-Market-Advisor&theme=transparent" />
