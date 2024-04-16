@@ -11,7 +11,7 @@
   🫂 Looking for a collaborator on DS and ML projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
   📫 annarhysa13@gmail.com <br> 
-  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
+  🕸️ <a href = "https://annarhysa.github.io/annarhysas-portfolio.github.io/">My Portfolio</a>
 
   </div>
 <br>
