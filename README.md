@@ -6,11 +6,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
-  👀 I am an Artificial Intelligence and Data Science enthusiast<br>
-  🤖 Currently practising Machine Learning and its applications<br>
-  🫂 Looking for a collaborator on DS and ML projects<br> 
-  📖 I'm finding opportunities for research internships in Machine Learning<br>
-  📫 annarhysa13@gmail.com <br> 
+  
+  👀 I am an Artificial Intelligence and Data Science enthusiast\
+  🤖 Currently practising Machine Learning and its applications\
+  🫂 Looking for a collaborator on DS and MLops projects\
+  📖 I'm looking for internship opportunities in AI, ML & DL fields\
+  📫 annarhysa13@gmail.com\
   🕸️ <a href = "https://annarhysa.github.io/annarhysas-portfolio.github.io/">My Portfolio</a>
 
   </div>
