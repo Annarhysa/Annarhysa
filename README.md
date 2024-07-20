@@ -9,8 +9,8 @@
   
   👀 I am an Artificial Intelligence and Data Science enthusiast\
   🤖 Currently practising Machine Learning and its applications\
-  🫂 Looking for a collaborator on DS and MLops projects\
-  📖 I'm looking for internship opportunities in AI, ML & DL fields\
+  🫂 Looking for collaborators on DS and MLops projects\
+  📖 I'm interested in internship opportunities in AI, ML & DS fields\
   📫 annarhysa13@gmail.com\
   🕸️ <a href = "https://annarhysa.github.io/annarhysas-portfolio.github.io/">My Portfolio</a>
 
@@ -59,7 +59,8 @@
 <img height="55" alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
 <img height="55" alt="cpp" src="images/534-5342172_c-language-course-c-logo-removebg-preview (1).png">
 <img width="75" alt="git" src="./images/git-removebg-preview.png">
-<img height="55" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo">
+<img height = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo">
 <img height="50" alt="c" src="https://fekir.info/img/c-logo.png">
 <img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
 <img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
