@@ -57,6 +57,7 @@
 <img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="55" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 <img height="55" alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+<img height="55" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
 <img height="55" alt="cpp" src="images/534-5342172_c-language-course-c-logo-removebg-preview (1).png">
 <img width="75" alt="git" src="./images/git-removebg-preview.png">
 <img height = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo">
@@ -91,15 +92,13 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-grey.svg?style=for-the-badge&logo=NLTK&logoColor=white)
 
-[![Annarhysa's GitHub | Dependencies](https://stats.quine.sh/Annarhysa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa) 
-
 </div>
 
 
 ## 📈 Profile Stats
 <div align = "center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
 
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
 
