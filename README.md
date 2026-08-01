@@ -1,126 +1,176 @@
-<h1> Hey, I’m Annarhysa </h1>
+<h1 align="center">Hi 👋, I'm Annarhysa Albert</h1>
 
-<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
+<h3 align="center">
+Artificial Intelligence • Machine Learning • Data Science • Full Stack Development
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New+🚀"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
-<div align = "left">
-  
-  👀 I am an Artificial Intelligence and Data Science enthusiast\
-  🤖 Currently practising Machine Learning and its applications\
-  🫂 Looking for collaborators on DS and MLops projects\
-  📖 I'm interested in internship opportunities in AI, ML & DS fields\
-  📫 annarhysa13@gmail.com\
-  🕸️ <a href = "https://annarhysa.github.io/annarhysas-portfolio.github.io/">My Portfolio</a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Annarhysa&label=Profile%20Views&style=flat-square&color=3B82F6"/>
+</p>
 
-  </div>
-<br>
-<br>
-<br>
+---
 
-<div id="badges" align = "center">
+<img align="right" width="350" src="./images/Hand coding-rafiki.png"/>
 
-  <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://linktr.ee/anna_albert">
-   <img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
-  </a>
-  <a href="https://discord.com/channels/@me/1084779154106494987">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com/annarhysa003">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://in.pinterest.com/annarhysa/">
-    <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
-  </a>
-  <a href="https://www.tumblr.com/blog/anna-albert003">
-    <img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr Badge"/>
-  </a>
-  
-  
- <!--- <a href="https://www.hackerrank.com/aa17011?hr_r=1">
-    <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://www.codechef.com/users/anna_albert21">
-    <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-  </a>) --->
-</div>
+## 🚀 About Me
+
+I'm an AI and Data Science enthusiast passionate about building intelligent systems that solve real-world problems.
+
+- 🤖 Exploring **Machine Learning, Deep Learning & Generative AI**
+- 📊 Interested in **Data Analytics, NLP, Computer Vision & MLOps**
+- 💻 Building **AI-powered full-stack applications**
+- 🌱 Currently learning **LLMs, RAG, AI Agents & Cloud AI**
+- 🤝 Open to collaborating on **AI, ML, Data Science & Open Source projects**
+- 🎯 Looking for **AI/ML, Data Science and Software Engineering internships**
+- 📫 **Email:** **annarhysa13@gmail.com**
+- 🌐 **Portfolio:** https://annarhysa.github.io/annarhysas-portfolio.github.io/
 
 <br>
 
-## 👩‍💻 Tech Stack
-### Languages and tools I work with
-<div align = 'center'>
-<img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="55" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-<img height="55" alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
-<img height="55" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-<img height="55" alt="cpp" src="images/534-5342172_c-language-course-c-logo-removebg-preview (1).png">
-<img width="75" alt="git" src="./images/git-removebg-preview.png">
-<img height = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo">
-<img height = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo">
-<img height="50" alt="c" src="https://fekir.info/img/c-logo.png">
-<img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
-<img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-<img height="45" alt="js" src="./images/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files-removebg-preview.png">
-<img height="48" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png">
-<img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
-<img height="60" alt="Java" src="./images/pnghut_java-programmer-computer-programming-logo-language.png">
-<img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"> 
-<img height="45" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
-</div>
+## 🌐 Connect With Me
 
-### Python libraries I expertise in
-<div align = "center">
-  
-![Streamlit](https://img.shields.io/badge/Streamlit-royalblue.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-blue.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-purple.svg?style=for-the-badge&logo=PyPI&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-red.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-darkpink.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-teal.svg?style=for-the-badge&logo=Sympy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-coral.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-grey.svg?style=for-the-badge&logo=NLTK&logoColor=white)
+<p align="center">
 
-</div>
-
-
-## 📈 Profile Stats
-<div align = "center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
-
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
-
-</div>
-
-## 🔝 Top Repositories
-<div align = "center">
-<a href="https://github.com/Annarhysa/BudgetBud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=BudgetBud&theme=transparent" />
+<a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Annarhysa/Stock-Market-Advisor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Stock-Market-Advisor&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/Code-Translator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Code-Translator&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/CareerWise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
-</a>
-</div>
 
-<!---
-Annarhysa/Annarhysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://linktr.ee/anna_albert">
+<img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=Linktree&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/annarhysa003">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/1084779154106494987">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+
+</p>
+
+### AI • Machine Learning
+
+<p align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</p>
+
+### Data Science
+
+<p align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-0F4C81?style=for-the-badge)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge)
+
+</p>
+
+### Web Development
+
+<p align="center">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</p>
+
+### Databases & Cloud
+
+<p align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</p>
+
+### Tools & Technologies
+
+<p align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</p>
+
+---
+
+# 🚀 Currently Exploring
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 AI Agents & Agentic Workflows
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☁️ MLOps & Cloud Deployment
+- 🔬 Applied AI Research
+- 📈 Data Visualization & Analytics
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Annarhysa&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annarhysa&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **[Protego](https://github.com/Annarhysa/protego)** | AI-powered cybersecurity platform for threat detection and security analytics. | `Python` `Machine Learning` `Flask` |
+| 🧠 **[MoodMate](https://github.com/Annarhysa/MoodMate)** | AI mental wellness companion leveraging sentiment analysis and personalized recommendations. | `Python` `NLP` `LLMs` |
+| 📈 **[Stock Market Advisor](https://github.com/Annarhysa/Stock-Market-Advisor)** | Machine learning application for stock trend prediction and investment insights. | `Python` `TensorFlow` `Data Science` |
+| 💼 **[CareerWise](https://github.com/Annarhysa/CareerWise)** | AI-powered career guidance platform with resume analysis and job recommendations. | `Python` `ML` `Streamlit` |
+
+---
+
+<h3 align="center">
+💡 "Transforming ideas into intelligent solutions through AI, data, and code."
+</h3>
