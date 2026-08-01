@@ -12,26 +12,23 @@ Artificial Intelligence • Machine Learning • Data Science • Full Stack Dev
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&label=Profile%20Views&style=flat-square&color=3B82F6"/>
 </p>
 
----
+<img align="right" width="550" src="./images/Hand coding-rafiki.png"/>
 
-<img align="right" width="350" src="./images/Hand coding-rafiki.png"/>
-
-## 🚀 About Me
+# 🚀 About Me
 
 I'm an AI and Data Science enthusiast passionate about building intelligent systems that solve real-world problems.
 
 - 🤖 Exploring **Machine Learning, Deep Learning & Generative AI**
 - 📊 Interested in **Data Analytics, NLP, Computer Vision & MLOps**
 - 💻 Building **AI-powered full-stack applications**
-- 🌱 Currently learning **LLMs, RAG, AI Agents & Cloud AI**
-- 🤝 Open to collaborating on **AI, ML, Data Science & Open Source projects**
-- 🎯 Looking for **AI/ML, Data Science and Software Engineering internships**
+- 🌱 Learning **LLMs, RAG, AI Agents & Cloud AI**
+- 🤝 Collaboration on **AI, ML, Data Science & Open Source projects**
+- 🎯 Looking for **AI/ML, Data Science and Software Engineering gigs**
 - 📫 **Email:** **annarhysa13@gmail.com**
 - 🌐 **Portfolio:** https://annarhysa.github.io/annarhysas-portfolio.github.io/
 
-<br>
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 
