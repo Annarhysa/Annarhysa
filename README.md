@@ -28,7 +28,7 @@ I'm an AI and Data Science enthusiast passionate about building intelligent syst
 - 🌐 **Portfolio:** https://annarhysa.github.io/annarhysas-portfolio.github.io/
 
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
 
