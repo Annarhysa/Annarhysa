@@ -30,7 +30,7 @@ I'm an AI and Data Science enthusiast passionate about building intelligent syst
 
 ### Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/annarhysa-albert-92550918b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
