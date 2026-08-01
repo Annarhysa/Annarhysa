@@ -168,6 +168,6 @@ I'm an AI and Data Science enthusiast passionate about building intelligent syst
 
 ---
 
-<h3 align="center">
+<h3 align="center"><i>
 💡 "Transforming ideas into intelligent solutions through AI, data, and code."
-</h3>
+</i></h3>
