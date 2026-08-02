@@ -3,16 +3,14 @@
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Data Science • Full Stack Development
 </h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New+🚀"/>
 </p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&label=Profile%20Views&style=flat-square&color=3B82F6"/>
 </p>
 
-<img align="right" width="350" src="./images/Hand coding-rafiki.png"/>
+<img align="right" width="550" src="./images/Hand coding-rafiki.png"/>
 
 # 🚀 About Me
 
