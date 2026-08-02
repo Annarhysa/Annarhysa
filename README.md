@@ -24,7 +24,7 @@ I'm an AI and Data Science enthusiast passionate about building intelligent syst
 - 📫 **Email:** **annarhysa13@gmail.com**
 - 🌐 [**Portfolio**](https://annarhysa.github.io/annarhysas-portfolio.github.io/)
 
-
+<br>
 
 <p align="left">
 
