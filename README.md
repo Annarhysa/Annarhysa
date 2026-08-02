@@ -10,9 +10,9 @@ Artificial Intelligence • Machine Learning • Data Science • Full Stack Dev
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&label=Profile%20Views&style=flat-square&color=3B82F6"/>
 </p>
 
-<img align="right" width="550" src="./images/Hand coding-rafiki.png"/>
+<img align="right" width="350" src="./images/Hand coding-rafiki.png"/>
 
-# 🚀 About Me
+### 🚀 About Me
 
 I'm an AI and Data Science enthusiast passionate about building intelligent systems that solve real-world problems.
 
