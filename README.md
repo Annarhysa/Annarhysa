@@ -16,14 +16,13 @@ Artificial Intelligence • Machine Learning • Data Science • Full Stack Dev
 
 I'm an AI and Data Science enthusiast passionate about building intelligent systems that solve real-world problems.
 
-- 🤖 Exploring **Machine Learning, Deep Learning & Generative AI**
 - 📊 Interested in **Data Analytics, NLP, Computer Vision & MLOps**
 - 💻 Building **AI-powered full-stack applications**
 - 🌱 Learning **LLMs, RAG, AI Agents & Cloud AI**
 - 🤝 Collaboration on **AI, ML, Data Science & Open Source projects**
 - 🎯 Looking for **AI/ML, Data Science and Software Engineering gigs**
 - 📫 **Email:** **annarhysa13@gmail.com**
-- 🌐 **Portfolio:** https://annarhysa.github.io/annarhysas-portfolio.github.io/
+- 🌐 [**Portfolio**](https://annarhysa.github.io/annarhysas-portfolio.github.io/)
 
 
 ### Connect With Me
